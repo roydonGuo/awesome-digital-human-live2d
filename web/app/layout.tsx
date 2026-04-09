@@ -10,7 +10,7 @@ import "@/styles/globals.css";
 const inter = Inter({subsets: ['latin']});
 
 export const metadata: Metadata = {
-  title: '沐光而行',
+  title: 'live2d',
   icons: 'favicon.icon',
 };
 
@@ -19,7 +19,7 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  
+
   const locale = await getLocale();
   const messages = await getMessages();
 

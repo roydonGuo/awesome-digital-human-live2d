@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "沐光而行",
-    "description": "沐光而行"
+    "title": "live2d",
+    "description": "live2d"
   },
   "Common": {
     "close": "关闭",
@@ -58,7 +58,7 @@
     "verifyCode": "验证码",
     "verifyCodeTip": "验证码已发送，请注意查收",
     "agree": "我已阅读并同意",
-    "privacyPolicy": "隐私政策",  
+    "privacyPolicy": "隐私政策",
     "termsOfService": "服务协议",
     "alreadyAccount": "已有账户？",
     "reset": "重置密码",
